@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://res.cloudinary.com/dsxbnby76/image/upload/v1682337442/flutter_d9bc7de1f4_94d99c8220.png) -->
-<h1 align="center">Flutter && Golang && Kubernetes</h1>
+<h1 align="center">Go / Typescript / Flutter / Kubernetes / OpenTelemetry</h1>
 
 <h3 align="center">My skillset:</h3>
 
